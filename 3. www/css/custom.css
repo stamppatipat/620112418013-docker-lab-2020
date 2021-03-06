@@ -1,0 +1,31 @@
+<style>
+p{
+    color: red;
+    font-size: larger;
+}
+
+h1{
+    background-color: blue;
+    color: white;
+}
+a:hover{
+    color: coral;
+    text-decoration: none;
+}
+
+    #p_bru{
+        background-color: burlywood;
+        /* padding: 10px 20px 20px 10px; */
+        padding: 0.648em;
+}
+
+    .blue700{
+        color: blue;
+        font-weight: 700;
+        opacity: 0.3;
+    }
+
+    [alt="logo"] {
+        width: 300px;
+    }
+</style>
